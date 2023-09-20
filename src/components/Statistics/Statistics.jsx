@@ -12,9 +12,3 @@ const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
 );
 
 export default Statistics;
-
-    // {options.map((option, index) => (
-    //   <p key={index} name={option}>
-    //     {option}: {state[option]}
-    //   </p>
-    // ))}
